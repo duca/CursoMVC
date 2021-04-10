@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Curso MVC", "MVC1\Curso MVC.csproj", "{6B14F1C9-70C3-4CA7-86B8-CD8F38853CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{B32FE3FB-9020-405B-8A75-E97B60E3F98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B14F1C9-70C3-4CA7-86B8-CD8F38853CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B14F1C9-70C3-4CA7-86B8-CD8F38853CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B14F1C9-70C3-4CA7-86B8-CD8F38853CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B14F1C9-70C3-4CA7-86B8-CD8F38853CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32FE3FB-9020-405B-8A75-E97B60E3F98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32FE3FB-9020-405B-8A75-E97B60E3F98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32FE3FB-9020-405B-8A75-E97B60E3F98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32FE3FB-9020-405B-8A75-E97B60E3F98C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DB18366-633B-4FCC-923A-34457D4A0EFD}
+	EndGlobalSection
+EndGlobal
