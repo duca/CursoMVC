@@ -11,8 +11,7 @@ namespace CursoMVC.Models
         public int Id { get; set; }
 
         [Display(Name = "Descrição")]
-        [Required(ErrorMessage ="Campo obrigatório")
-            ]
+        [Required(ErrorMessage ="Campo obrigatório")]
         public string Descricao { get; set; }
 
     }
